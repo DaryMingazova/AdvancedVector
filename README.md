@@ -3,7 +3,7 @@ cpp-advanced-vector
 
 Implementation of the basic functionality of the Vector class.
 
-The Reserve method is designed to reserve memory in advance for vector elements when their approximate number is known.
+The *Reserve* method is designed to reserve memory in advance for vector elements when their approximate number is known.
 Algorithmic complexity: O(vector size).
 
 The Resize method changes the number of elements in the vector, Reserve changes only the amount of reserved memory.
