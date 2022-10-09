@@ -1,5 +1,5 @@
-cpp-advanced-vector
-------------------
+An advanced vector
+-----------------
 
 Implementation of the basic functionality of the Vector class.
 
